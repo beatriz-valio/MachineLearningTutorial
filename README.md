@@ -5,7 +5,8 @@ ECL course material for community workshops. The training cluster utilized durin
 # During the workshop GitPod will be used as main environment:
 1. By using your GitHub credentials, just click on the following link for instantiate a environment via GitPod:
 https://gitpod.io/#https://github.com/beatriz-valio/MachineLearningTutorial
-2. Link to ECL Watch - HPCC Cloud: https://8010-beatrizvali-machinelear-ln6ra6o3hh0.ws-us110.gitpod.io/esp/files/index.html#/activities
+2. Link to ECL Watch: https://8010-beatrizvali-machinelear-ln6ra6o3hh0.ws-us110.gitpod.io/esp/files/index.html#/activities
+3. Link to HPCC Cloud: http://training.us-hpccsystems-dev.azure.lnrsg.io:8010/
 
 **Note I**: Alternatively, you can use the ECL IDE:
 1. Download and install the latest ECL IDE version available from https://hpccsystems.com/download#HPCC-Platform. For detailed information on how to setup the ECL IDE, please watch this instructional video: https://www.youtube.com/watch?v=TT7rCcyWTAo
